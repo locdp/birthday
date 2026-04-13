@@ -1,0 +1,6 @@
+msgbox "Happy Birthday to you ! hehe" 
+msgbox "Sinh Nhat này chúc Nhan vui và khoe :D" 
+msgbox "Chuc Nhan càng ngày càng xinh" 
+msgbox "Cuoi cai coi ne :D"
+msgbox "Lam viec tot nha"
+msgbox "bb ^_^"
